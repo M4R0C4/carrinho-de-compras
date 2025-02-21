@@ -1,9 +1,9 @@
-## Amigo Secreto
+## Carrinho de compras
 Essa é o resultado do projeto do curso [Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios)
 desenvolvido pela Alura, com o foco para prática de escrita do código JavaScript
 ## Índice
 
-- [Amigo Secreto](#amigo-secreto)
+- [Carrinho de compras](#carrinho-de-compras)
 - [Índice](#índice)
 - [Visão Geral](#visão-geral)
   - [O desafio](#o-desafio)
