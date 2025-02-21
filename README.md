@@ -24,12 +24,11 @@ Os usuários devem ser capazes de:
 - Receber a soma no carrinho
 
 ### Captura de tela
-#### Inicio da Aplicação
-![Inicio da aplicação]()
+![Inicio da aplicação](./screenshot/Carrinho-de-compras1.png)
 
 
 #### Itens adicionados no carrinho
-![Após o sorteio]()
+![Após adição no carrinho](./screenshot/Carrinho-de-compras2.png)
 
 ## Meu processo
 <p>
